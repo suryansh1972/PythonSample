@@ -14,3 +14,6 @@ def days_in_month(year, month):
 
 print(days_in_month(2017, 2))
 print ('Yo Fam Wassup')
+
+def Jui ():
+    return 'King of the north'
